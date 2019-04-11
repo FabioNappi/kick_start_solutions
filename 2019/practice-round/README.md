@@ -1,0 +1,1 @@
+This directory contains my solutions, written in C, of the problems in the practice round.

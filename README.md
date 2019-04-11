@@ -1,0 +1,1 @@
+This repository contains my personal solutions of the past Google's Kick Start competitions
