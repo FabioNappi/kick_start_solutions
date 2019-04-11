@@ -6,7 +6,7 @@
 // After each guess that is not correct, we will tell you whether P is higher or lower than your guess.
 
 int main() {
-    int t;              //number of tests
+    int t;              //number of test cases
     int a;              //lower bound
     int b;              //upper bound
     int n;              //available tries
@@ -18,8 +18,8 @@ int main() {
     //repeat for each test
     while(t > 0) {
 
-        scanf("%d %d", &a, &b);
-        b++;    //increment by one because upper bound is inclusive
+        scanf("%d %d", &a, &b); //read bounds from stdin
+        b++;                    //increment by one because upper bound is inclusive
         scanf("%d", &n);
 
         //print the half of the upper bound in stdout
