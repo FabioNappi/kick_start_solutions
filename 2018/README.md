@@ -1,0 +1,1 @@
+This directory contains the rounds of the 2018's Kick Start
