@@ -1,13 +1,13 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 // PROBLEM
 // Supervin has a unique calculator. This calculator only has a display, a plus button, and a minus button.
 // Currently, the integer N is displayed on the calculator display.
 // Supervin does not like odd digits, because he thinks they are "odd". Therefore, he wants to display an integer with
 // only even digits in its decimal representation, using only the calculator buttons.
 // Since the calculator is a bit old and the buttons are hard to press, he wants to use a minimal number of button presses.
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 int length; // the length of the displayed number
 
